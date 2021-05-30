@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "finance-non-prod",
+  "private_key_id": "3e575481f9d68beb9c72c1896752ab75f40f8696",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCx23Nk5zNIDlCb\nw17OCSSTUfRshQaerfxWl+ijInB1lvNwcro1+wRWDF4K5AiBcmjBetXbt2DlTQFF\nmNlHLSMiH5rIjK2BOY8KcCMk0n5sasm7HjSpeHp0QRrqy9Xflm0DZo1i4am+79zs\nz4otf4fjSOICROHlDdL/6BDynIcXpl3luuCDrrPapBnUkfjXbpoa0Bwy+0bolfYB\nurotwOgr7aS/Yzk4sUFY70vSKaH0fD5wL+jAixPDufmQeNwNPqbDBnHBcAY13Vma\n7iuSdnVM6afEQXxkKMOLd9gUAUhesgLKH/ji/YIPMj+lLgzy1+Com6Xvxsre4rvU\nKqrbb92LAgMBAAECggEAHUc/cUJgHkIBAgtA3ZECvN+2aXDinJeOnSCnssc2FR1y\n2LWCMuWuGo4xowBT6B9R4Fvcva0r3cN17KOTTRTAnlrui4og+89iXTkFiAfAuQ9B\nQzTfPXCwU9ft2u4QOJzWOEOXDcqRO3XX/AHUQNYoJAG49t+pAiBq9iaZN58N3BYH\ns74zMSFh9YNkPDIK7tB/OdZt33RYm4lFZftl6R/1AxDmySGehJAOOZ29BW4zxUwO\nmjL7fVdbsHE47CzGhovSzL7Rn501pDah2DqgiIUZ5MbCOtwte+U32o2Cs+a0L2bh\nAk0pcy0nKFzFDwp6g572OACNpfHmKRlU+oON56CxlQKBgQDyuFRdK+KQ+LgG+inD\ngSmWDoKnerbmdqKXQd+MaNs/eTSC4i1EAgrMOG0HXoIjAs1VF9ZQ33mwJFDBCrg5\njGWE+UOsGdsPMvZNJG8NPrOPpgSfruunfepNe5vPpBaJJ9ogRYi0bHSS4k8PiwaU\nCc+ZfktN8u6Sr20MrWh5efuoZwKBgQC7lp31FHb1gNm5qm6u7Xjl86gGQJjBZ4xj\nT66qcMr7/4Ync5VhYK8x4AClBlFX066a/Gj6Hw02ThsVoacuQmKfDT5CwV4My95Z\nw2cfS+11AGWPNIRwZMMWnhslXWkdD08vMZ5VLAwWlrt0osvstI5o6KMwmP3yL1pk\n3xuwSm87PQKBgQC//RwGQtNI9uOh6TklwsIhRsMENOX9r/N2D44DI2HheD8YFE3X\n0IG3/h4HyTLI/MtsNpm4iLxZnrAdshv8sVgP8Zccx6rl/9qhNGN/J4yi4KAhqxwN\n9WRi+5ZIjTOiM9qu0jGK/YrMMKR21/JRIN2MPUDVnIYnkwmAEJ5mEB4GmwKBgQCz\nqxTrUYiGp7zheX29ibGL/Y1nP6OPSlBKJl2S3altJ1Ykny3qMKJcUMINTTnHtvW7\neBpLxkXvR2vlkgj/45F16UdCxNYBx5nVu7QfY6exsomTWaenxrqcBR7W8NrmfG1J\nNGsEBMYnNIOiuPI8assja/4xY7eGqRgZGR/5/7D9uQKBgAkKLQpxdNyF+vVgL92j\nvHmQR7fJLd0TVgs3rPcjKcBmE/3dvj0JX69WCJX4IK3oSVR/g9bc1I4pdn2hRcG4\n89e6tKujh0Bk4Nfh4gsS26sg4JYez7s0Vkzgg3W1CthNWXSV0zCeRRDFGJiU/VGP\nCpWCAMO7NSeUsHPv7Ruf3Y4o\n-----END PRIVATE KEY-----\n",
+  "client_email": "gitlabuser@finance-non-prod.iam.gserviceaccount.com",
+  "client_id": "114298508363512858885",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gitlabuser%40finance-non-prod.iam.gserviceaccount.com"
+}
